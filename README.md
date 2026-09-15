@@ -13,3 +13,8 @@ $\ge 18$ anos: Libera o acesso e salva o nome/idade no arquivo log_acessos.txt.
 
 $< 18$ anos: Bloqueia o acesso sem salvar registros.
 ___
+### $\color{#61EDC5}{\text{Print}}$
+<img width="600" height="280" alt="image" src="https://github.com/user-attachments/assets/fe99759b-305f-4b97-9f60-638456d1a0db" />
+
+___
+
